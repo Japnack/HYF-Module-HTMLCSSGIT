@@ -1,3 +1,1 @@
-This is just a test.
-
-This is another test on develop branch
+Resolving the merge conflict between the main branch and the develop branch
